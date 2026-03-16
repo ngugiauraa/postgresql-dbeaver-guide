@@ -125,15 +125,13 @@ You will need to enter the PostgreSQL connection information.
 
 Use the following settings:
 
-Host — localhost
-
-Port — 5432
-
-Database — postgres
-
-Username — postgres
-
-Password — (the password you created on PostgreSQL)
+```yaml
+Host: localhost
+Port: 5432
+Database: postgres
+Username: postgres
+Password: yourpassword
+```
 
 These settings allow Dbeaver to connect to the PostgreSQL server running locally on your computer.
 
