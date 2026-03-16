@@ -174,13 +174,10 @@ Whether you’re building applications, exploring data, or learning backend deve
 
 This article is also available on:
 
-Medium: [ngugiauraa](https://medium.com/@ngugigiauraa) 
-
 LinkedIn: [Ngugi Gichuki](https://www.linkedin.com/in/ngugi-gichuki-7966aa3b7/)
 
-PostgreSQL + DBeaver Setup Guide is also available on:
-
 Medium article: [ngugiauraa](https://medium.com/@ngugigiauraa/a-beginners-guide-to-installing-postgresql-and-connecting-it-to-dbeaver-in-minutes-83a7f49bd01e)
+
 Dev.to article: [ngugiauraa](https://dev.to/ngugiauraa/a-beginners-guide-to-installing-postgresql-and-connecting-it-to-dbeaver-in-minutes-2cem)
 
 
