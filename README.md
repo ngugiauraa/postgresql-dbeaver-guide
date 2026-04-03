@@ -172,7 +172,7 @@ Whether you’re building applications, exploring data, or learning backend deve
 
 This article is also available on:
 
-LinkedIn: [Ngugi Gichuki](https://www.linkedin.com/in/ngugi-gichuki-7966aa3b7/)
+LinkedIn: [Jesse Ngugi]([https://www.linkedin.com/in/ngugi-gichuki-7966aa3b7/](https://www.linkedin.com/pulse/beginners-guide-installing-postgresql-connecting-dbeaver-jesse-ngugi-xzugf/?trackingId=V6xfXR8MQcWhQa2ft7%2BhmQ%3D%3D))
 
 Medium article: [ngugiauraa](https://medium.com/@ngugigiauraa/a-beginners-guide-to-installing-postgresql-and-connecting-it-to-dbeaver-in-minutes-83a7f49bd01e)
 
